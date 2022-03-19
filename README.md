@@ -96,7 +96,7 @@ The following screenshot displays the end result of running docker ps after succ
 
 Elk Docker PS Command
   
-![elk text](Images/"elk setup.PNG")
+![elk container](Images/elk_setup.PNG)
   
 Monitoring with MetricBeats and FileBeat
 This ELK server is configured to monitor the following machines:
