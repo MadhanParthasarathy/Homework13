@@ -95,7 +95,7 @@ Provision the new docker container using the project1-elk-server.yml file and an
 The following screenshot displays the end result of running docker ps after successfully configuring the ELK instance.
 
 Elk Docker PS Command
-![elk text](images/
+![elk text]("Images/elk setup.PNG")
 Monitoring with MetricBeats and FileBeat
 This ELK server is configured to monitor the following machines:
 
