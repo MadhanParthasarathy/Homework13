@@ -28,7 +28,7 @@ The following design below is a representation of an Azure Cloud setup of the El
 
 In this design, all traffic was restricted to each of our personal IPv4 public IP addresses.
 
-
+![Network Diagram](Images/Network-Diagram.PNG)
 
 
 Network Design
@@ -118,8 +118,8 @@ Target Machines & Beats
 
 This ELK server is configured to monitor the following machines:
 
-- 10.0.0.5
 - 10.0.0.6
+- 10.0.0.7
 
 We have installed the following Beats on these machines:
 
